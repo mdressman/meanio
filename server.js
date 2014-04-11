@@ -1,6 +1,6 @@
 'use strict';
 /**
- *  Mean container for dependency injection
+ *  Mean container for dependency injection ttt
  */
 var mean = require('meanio');
 mean.app('Mean Demo App',{});
